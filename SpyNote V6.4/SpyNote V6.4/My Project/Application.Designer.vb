@@ -9,7 +9,7 @@
 '------------------------------------------------------------------------------
 
 Option Strict On
-Option Explicit On
+Option Explícito icit On
 
 
 Namespace My
